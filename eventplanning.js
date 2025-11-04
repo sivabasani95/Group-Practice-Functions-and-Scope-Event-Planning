@@ -10,7 +10,7 @@
 // Return Value:
 // Returns a string: "Name: Alice, Role: Speaker"
 
-FUNCTION generateBadge(name, role)
+FUNCTION generateBadge(name, role) 
     RETURN "Name: " + name + ", Role: " + capitalize(role)
 END FUNCTION
 
